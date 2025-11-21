@@ -1,0 +1,5 @@
+{
+  "name": "Havanna Analytics Dashboard",
+  "description": "Interactive performance dashboard for Havanna franchises analyzing Sell-In, Sell-Out, and KPI quartiles from Excel data.",
+  "requestFramePermissions": []
+}
